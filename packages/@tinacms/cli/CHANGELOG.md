@@ -1,5 +1,16 @@
 # tinacms-cli
 
+## 4.0.3
+
+### Patch Changes
+
+- [#7782](https://github.com/tinacms/tinacms/pull/7782) [`dc74885`](https://github.com/tinacms/tinacms/commit/dc7488576604c019bb3284401a7088777dcfbe90) Thanks [@kulesy](https://github.com/kulesy)! - Bump `js-yaml` to `^4.3.2` in `@tinacms/cli` and `^3.15.2` in `@tinacms/graphql`, which fixes a high-severity advisory in each.
+
+- Updated dependencies [[`53ae895`](https://github.com/tinacms/tinacms/commit/53ae8954de8668e5eeb92d817bfbf12bf39cb17d), [`dc74885`](https://github.com/tinacms/tinacms/commit/dc7488576604c019bb3284401a7088777dcfbe90), [`787c7a9`](https://github.com/tinacms/tinacms/commit/787c7a9daf7740dbfb148d25a74367948bcbaade), [`d828a9e`](https://github.com/tinacms/tinacms/commit/d828a9efdd40c0c554df5adc4d635e5818f96598)]:
+  - tinacms@3.15.0
+  - @tinacms/graphql@4.0.1
+  - @tinacms/app@2.6.0
+
 ## 4.0.2
 
 ### Patch Changes
